@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "mineflayer": "^2.39.2",
+    "mineflayer": "^4.1.0",
     "wait-until": "0.0.2"
   }
 }
